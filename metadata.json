@@ -1,0 +1,5 @@
+{
+  "name": "PolyGemini Tycoon",
+  "description": "A multiplayer property trading board game featuring an AI commentator powered by Google Gemini to analyze deals and roast players.",
+  "requestFramePermissions": []
+}
